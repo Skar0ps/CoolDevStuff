@@ -12,7 +12,7 @@
 | **Kenney** | [https://www.kenney.nl/](https://www.kenney.nl/) | ![Sound icon](icons/volume.svg "Sound asset") ![Music icon](icons/music.svg "Music asset") ![Art icon](icons/art.svg "Art asset") | Free & Paid |
 | **FreeSound** | [https://freesound.org/](https://freesound.org/) | ![Sound icon](icons/volume.svg "Sound asset") ![Music icon](icons/music.svg "Music asset") | Free |
 | **Free Music Archive** | [https://freemusicarchive.org/home](https://freemusicarchive.org/home) | ![Music icon](icons/music.svg "Music asset") | Free |
-|
+
 
 ## Cool softwares
 
@@ -37,7 +37,7 @@
  Title | Link | Description
 | ----------- | ----------- | -----------|
 **Lorem Picsum** | [https://picsum.photos/](https://picsum.photos/) | Specify the dimensions of the image you want and picsum gives an image that fits those dimensions from Unsplash, extremely useful for placeholders
-|
+
 
 
 ## Accessibilité
@@ -47,4 +47,3 @@
 **FreeTTS** | [https://freetts.com/](https://freetts.com/) | TTS for better accessibility, allows download in MP3 format
 **Game Accessibility Guidelines** | [https://gameaccessibilityguidelines.com/](https://gameaccessibilityguidelines.com/) | The holy book for game accessibility, ranked by difficulty of implementation
 **Who can use** | [https://www.whocanuse.com/](https://www.whocanuse.com/) | Gives a preview of what a combination of two colors would look like to somewhat with a certain vision impairment (eg: partially blind, colorblind, etc.)
-|
