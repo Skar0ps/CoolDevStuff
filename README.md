@@ -1,9 +1,12 @@
 # Resources
 
 ## Collaborative tools
--   **Excalidraw** : [https://excalidraw.com/](https://excalidraw.com/) → *open source virtual hand-drawn style whiteboard that you can draw on with anyone you want*
--   **Magma** : [https://magma.com/](https://magma.com/) → *Collaborative draw tool similar to Krita but online and extremely useful for brainstorming*
--   **Github** : [https://github.com/](https://github.com/) → *Collaborative code web host, useful for teams to work together on a project*
+
+ Title | Link | Description
+| ----------- | ----------- | -----------|
+**Excalidraw** | [https://excalidraw.com/](https://excalidraw.com/) | Open source virtual hand-drawn style whiteboard that you can draw on with anyone you want
+**Magma** | [https://magma.com/](https://magma.com/) | Collaborative draw tool similar to Krita but online and extremely useful for brainstorming
+**Github** | [https://github.com/](https://github.com/) | Collaborative code web host, useful for teams to work together on a project
 
 ## Websites for Music / Art / SFX
  Title | Link | Type of asset | Price
