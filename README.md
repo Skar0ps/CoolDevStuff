@@ -8,7 +8,7 @@
 **Magma** | [https://magma.com/](https://magma.com/) | Collaborative draw tool similar to Krita but online and extremely useful for brainstorming
 **Github** | [https://github.com/](https://github.com/) | Collaborative code web host, useful for teams to work together on a project
 
-## Websites for Music / Art / SFX
+## Websites for SFX / Music / Art  
  Title | Link | Type of asset | Price
 | ----------- | ----------- | ----------- | ----------- | 
 | **OpenGameArt** | [https://opengameart.org/](https://opengameart.org/) | ![Sound icon](icons/volume.svg "Sound asset") ![Music icon](icons/music.svg "Music asset") ![Art icon](icons/art.svg "Art asset") | Free  |
@@ -43,7 +43,7 @@
 
 
 
-## Accessibilité
+## Accessibility
 
  Titre | Lien | Description
 | ----------- | ----------- | -----------|

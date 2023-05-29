@@ -8,7 +8,7 @@
 **Magma** | [https://magma.com/](https://magma.com/) | Site où on peut dessiner simultanément sur un même tableau en ligne , similaire à Krita
 **Github** | [https://github.com/](https://github.com/) | Hébergeur de code extrêmement utile pour la collaboration
 
-## Sites pour musique / art / SFX
+## Sites pour SFX | Musique | Art
 
 Title | Link | Type of asset | Price
 | ----------- | ----------- | ----------- | ----------- | 
