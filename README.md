@@ -1,11 +1,11 @@
-# Ressources
+# Resources
 
-## Outils de collaboration
+## Collaborative tools
 -   **Excalidraw** : [https://excalidraw.com/](https://excalidraw.com/) → *open source virtual hand-drawn style whiteboard that you can draw on with anyone you want*
 -   **Magma** : [https://magma.com/](https://magma.com/) → *Collaborative draw tool similar to Krita but online and extremely useful for brainstorming*
 -   **Github** : [https://github.com/](https://github.com/) → *Collaborative code web host, useful for teams to work together on a project*
 
-## Sites pour musique / art / SFX
+## Websites for Music / Art / SFX
  Title | Link | Type of asset | Price
 | ----------- | ----------- | ----------- | ----------- | 
 | **OpenGameArt** | [https://opengameart.org/](https://opengameart.org/) | ![Sound icon](icons/volume.svg "Sound asset") ![Music icon](icons/music.svg "Music asset") ![Art icon](icons/art.svg "Art asset") | Free  |
@@ -14,7 +14,7 @@
 | **Free Music Archive** | [https://freemusicarchive.org/home](https://freemusicarchive.org/home) | ![Music icon](icons/music.svg "Music asset") | Free |
 |
 
-## Logiciels cool
+## Cool softwares
 
  Title | Link | Description
 | ----------- | ----------- | -----------|
@@ -23,8 +23,8 @@
  **ShareX** | [https://getsharex.com/](https://getsharex.com/) | Screenshot toolbox to screenshot specific windows or region of your screen , useful for promotional screenshots |
 
 
-## Sites web cool
->Police d’écriture
+## Cool Websites
+>Fonts
 
  Title | Link | Description
 | ----------- | ----------- | -----------|
@@ -32,11 +32,11 @@
 **FontJoy** | [https://fontjoy.com/](https://fontjoy.com/) | Generates cool font combinations 
 **Google Fonts** | [https://fonts.google.com/](https://fonts.google.com/) | Font of all shapes and styles, and icons with a consistent style, for free
 
->Autres
+>Others
 
  Title | Link | Description
 | ----------- | ----------- | -----------|
-**Lorem Picsum** | [https://picsum.photos/](https://picsum.photos/) | Spécifiez les dimensions de l’image que vous voulez, et picsum vous rendra une image dans les dimensions spécifiés, super utile pour des placeholders 
+**Lorem Picsum** | [https://picsum.photos/](https://picsum.photos/) | Specify the dimensions of the image you want and picsum gives an image that fits those dimensions from Unsplash, extremely useful for placeholders
 |
 
 
@@ -44,7 +44,7 @@
 
  Titre | Lien | Description
 | ----------- | ----------- | -----------|
-**FreeTTS** | [https://freetts.com/](https://freetts.com/) | TTS pour ajouter de l’accessibilité à ce que vous faites, produit des sons au format MP3
-**Game Accessibility Guidelines** | [https://gameaccessibilityguidelines.com/](https://gameaccessibilityguidelines.com/) | Le livre sacré pour rendre vos jeux accessibles au maximum (classé du plus facile à implémenter au plus complexe)
-**Who can use** | [https://www.whocanuse.com/](https://www.whocanuse.com/) | Donnes un aperçu sur le rendu d’une couleur sur une autre en fonction de certains problèmes liés à la vision (ex: cécité partielle, daltonisme)
+**FreeTTS** | [https://freetts.com/](https://freetts.com/) | TTS for better accessibility, allows download in MP3 format
+**Game Accessibility Guidelines** | [https://gameaccessibilityguidelines.com/](https://gameaccessibilityguidelines.com/) | The holy book for game accessibility, ranked by difficulty of implementation
+**Who can use** | [https://www.whocanuse.com/](https://www.whocanuse.com/) | Gives a preview of what a combination of two colors would look like to somewhat with a certain vision impairment (eg: partially blind, colorblind, etc.)
 |
