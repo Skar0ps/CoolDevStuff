@@ -19,11 +19,12 @@
 
 ## Cool softwares
 
- Title | Link | Description
-| ----------- | ----------- | -----------|
- **Boscaceoil** | [https://boscaceoil.net/](https://boscaceoil.net/) | Extremely easy to use DAW to make cool music in no time |
- **Rickrack** | [https://eigenmiao.com/rickrack](https://eigenmiao.com/rickrack) | Advanced color palette generator to make stunning color combinations |
- **ShareX** | [https://getsharex.com/](https://getsharex.com/) | Screenshot toolbox to screenshot specific windows or region of your screen , useful for promotional screenshots |
+ Title | Link | Description | Platform
+| ----------- | ----------- | ----------- | ----------- |
+ **Boscaceoil** | [https://boscaceoil.net/](https://boscaceoil.net/) | Extremely easy to use DAW to make cool music in no time | ![Windows icon](icons/windows.svg "Windows Platform") ![Apple icon](icons/apple.svg "Mac OSX Platform") ![Linux icon](icons/linux.svg "Linux Platform")
+ **Rickrack** | [https://eigenmiao.com/rickrack](https://eigenmiao.com/rickrack) | Advanced color palette generator to make stunning color combinations |![Windows icon](icons/windows.svg "Windows Platform") ![Apple icon](icons/apple.svg "Mac OSX Platform") ![Linux icon](icons/linux.svg "Linux Platform")
+ **Flameshot** |  [https://github.com/flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) | Fantastic screenshot tool to screenshot specific regions of your screen or your whole screen, can also edit screenshot immediately with some cool stuff | ![Windows icon](icons/windows.svg "Windows Platform") ![Apple icon](icons/apple.svg "Mac OSX Platform") ![Linux icon](icons/linux.svg "Linux Platform")
+  **ShareX** | [https://getsharex.com/](https://getsharex.com/) | Screenshot toolbox to screenshot specific windows or region of your screen and tweak them with the in-app editor with a bunch of effects, useful for promotional screenshots |![Windows icon](icons/windows.svg "Windows Platform")
 
 
 ## Cool Websites
