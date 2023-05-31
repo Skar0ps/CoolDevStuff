@@ -21,9 +21,11 @@
 
  Title | Link | Description | Platform
 | ----------- | ----------- | ----------- | ----------- |
+**OBS Studio** | [https://obsproject.com/](https://obsproject.com/) | Cool streamlined video recording / streaming software, it's a fantastic tool to record video footage of a project you have or a game and it has a bunch of features | ![Windows icon](icons/windows.svg "Windows Platform") ![Apple icon](icons/apple.svg "Mac OSX Platform") ![Linux icon](icons/linux.svg "Linux Platform")
+**Krita** | [https://krita.org/](https://krita.org/) | Drawing software that has all you can ever imagine to draw and animate, solid alternative to photoshop, and useful as an image editor too |![Windows icon](icons/windows.svg "Windows Platform") ![Apple icon](icons/apple.svg "Mac OSX Platform") ![Linux icon](icons/linux.svg "Linux Platform")
  **Boscaceoil** | [https://boscaceoil.net/](https://boscaceoil.net/) | Extremely easy to use DAW to make cool music in no time | ![Windows icon](icons/windows.svg "Windows Platform") ![Apple icon](icons/apple.svg "Mac OSX Platform") ![Linux icon](icons/linux.svg "Linux Platform")
  **Rickrack** | [https://eigenmiao.com/rickrack](https://eigenmiao.com/rickrack) | Advanced color palette generator to make stunning color combinations |![Windows icon](icons/windows.svg "Windows Platform") ![Apple icon](icons/apple.svg "Mac OSX Platform") ![Linux icon](icons/linux.svg "Linux Platform")
- **Flameshot** |  [https://github.com/flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) | Fantastic screenshot tool to screenshot specific regions of your screen or your whole screen, can also edit screenshot immediately with some cool stuff | ![Windows icon](icons/windows.svg "Windows Platform") ![Apple icon](icons/apple.svg "Mac OSX Platform") ![Linux icon](icons/linux.svg "Linux Platform")
+ **Flameshot** |  [https://flameshot.org](https://flameshot.org) | Fantastic screenshot tool to screenshot specific regions of your screen or your whole screen, can also edit screenshot immediately with some cool stuff | ![Windows icon](icons/windows.svg "Windows Platform") ![Apple icon](icons/apple.svg "Mac OSX Platform") ![Linux icon](icons/linux.svg "Linux Platform")
   **ShareX** | [https://getsharex.com/](https://getsharex.com/) | Screenshot toolbox to screenshot specific windows or region of your screen and tweak them with the in-app editor with a bunch of effects, useful for promotional screenshots |![Windows icon](icons/windows.svg "Windows Platform")
 
 
